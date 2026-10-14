@@ -14,7 +14,7 @@ from pact.scan.validate import validate_scan
 from pact.test.pattern_parser import parse_fan_pat
 
 
-def verify(output):
+def verify(output, verification_output=None):
     dataset=read(output/'canonical_results.json')
     frozen=read(output/'frozen_baselines.json')
     selected=read(output/'selected_candidates.json')
@@ -91,7 +91,7 @@ def verify(output):
         datasets=binding(output/'canonical_results.json'),
         frozen_baselines=binding(output/'frozen_baselines.json'),
         physical_results_unchanged=True,no_search_or_EDA_execution=True)
-    write(output/'final_verification.json',result)
+    write(verification_output if verification_output is not None else output/'final_verification.json',result)
     return result
 
 
@@ -102,5 +102,7 @@ def binding(path):
 if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--results',type=Path,default=ROOT/'results/pact_end_to_end_20261004')
+    parser.add_argument('--verification-output',type=Path,
+                        help='Write the generated receipt here instead of replacing the retained final_verification.json')
     args=parser.parse_args()
-    print(verify(args.results))
+    print(verify(args.results, args.verification_output))
