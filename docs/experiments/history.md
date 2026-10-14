@@ -1,5 +1,7 @@
 # Experiment progression
 
+The final state is [frozen](../research_status.md), with no registered material static-PI benefit. This table is a historical progression, not an active roadmap. The [canonical index](../reproduction/canonical_results.md) links exact reports; [development history](../history/README.md) groups older narratives.
+
 | Progression | Surviving scientific scope |
 |---|---|
 | Initial scan/activity stages | Identity, endpoint, shift-schedule and physical-metric contracts; shared modules and fixtures |

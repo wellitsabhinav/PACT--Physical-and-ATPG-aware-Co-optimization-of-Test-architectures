@@ -115,3 +115,12 @@ compile_commands.json
 *~
 Desktop.ini
 /quarantine/
+# Local agent/editor work and temporary verification output
+/.codex/
+/.agents/
+/test-results/
+/site-preview/
+*.tmp
+*.bak
+*.orig
+*.rej

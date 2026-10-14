@@ -1,5 +1,7 @@
 # CPU scalability development
 
+> Retained method/evidence from the completed campaign. The [final project status](research_status.md) is frozen after Gate 10A; historical next steps and rerun commands do not prescribe new research.
+
 This work preserves the PACT formulation, K=2, seed 11, epsilon lanes,
 balanced weights, Boolean depth bound, frozen geometry, ATPG workload,
 physical gates and exact measured C×N/H4/H8 definitions. Historical campaigns

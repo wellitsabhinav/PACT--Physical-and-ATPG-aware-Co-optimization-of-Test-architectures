@@ -1,5 +1,7 @@
 # Gate 9 prospective benchmark
 
+> Retained method/evidence from the completed campaign. The [final project status](research_status.md) is frozen after Gate 10A; historical next steps and rerun commands do not prescribe new research.
+
 Both large unseen designs completed end to end, and the measured results support scientific entry into a broader scaling campaign. The next campaign is prepared; no Gate 9 reference simulation or search has run. Heavy launch remains held until storage and reference-admission gates pass.
 
 The prospective intake uses sequential optimized designs from the [official PoliTo ITC'99 collection](https://github.com/cad-polito-it/I99T), licensed under EUPL-1.2. Cite Corno, Sonza Reorda and Squillero, *RT-Level ITC 99 Benchmarks and First ATPG Results*, DOI 10.1109/54.867894 when using this collection.
