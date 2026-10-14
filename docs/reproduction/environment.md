@@ -10,7 +10,9 @@ PYTHONPATH=src:scripts:. python -m pytest -q
 python scripts/verify_reproducibility.py
 ```
 
-Numerical usage supports Windows (`.venv/Scripts/Activate.ps1`); the complete campaign/test harness uses Linux facilities such as `resource` and targets Linux/WSL. Exact reproduction uses the recorded interpreter/package/compiler/build receipts.
+Numerical usage supports Windows (`.venv/Scripts/Activate.ps1`); the complete campaign/test harness uses Linux facilities such as `resource` and targets Linux/WSL. Exact reproduction uses the recorded interpreter/package/compiler/build receipts. The project is [frozen](../research_status.md); physical reruns require a separate output namespace.
+
+The lightweight example needs no EDA stack. Basic package usage installs with `python -m pip install -e .`; optimizer/stateful evaluation adds Numba and tests add pytest, hence the recommended extras above. Use [usage](../usage.md) for the portable real-input contract.
 
 | Dependency | Recorded identity |
 |---|---|
@@ -25,3 +27,14 @@ Numerical usage supports Windows (`.venv/Scripts/Activate.ps1`); the complete ca
 B2/B3T generation builds differ from the common backend; [baseline provenance](../benchmarks.md) defines their pins/repairs. A current checkout/compiler does not prove bit-identical execution. `scripts/fetch_data.py --output external` fetches pinned sources without replacing existing locations or inventing private-data URLs; follow the pinned build instructions and retained configuration.
 
 Configure `PACT_DEPENDENCY_ROOT`, `PACT_ORFS_ROOT`, `PACT_FAN_ATPG_ROOT`, `PACT_EXPERIMENT_ROOT` and `PACT_PYTHON` as needed; `pact doctor` reports availability. Portable receipts use `repo://`, `dep://`, `run://`. Immutable historical raw paths/hashes remain provenance. Restore complete raw campaigns through `archives/MANIFEST.csv` before adapters need their contents. PACT's license does not grant new rights to external assets.
+
+For Linux/WSL adapters, a typical explicit layout is:
+
+```sh
+export PACT_DEPENDENCY_ROOT="$PWD/external"
+export PACT_ORFS_ROOT="$PACT_DEPENDENCY_ROOT/OpenROAD-flow-scripts"
+export PACT_FAN_ATPG_ROOT="$PACT_DEPENDENCY_ROOT/FAN_ATPG"
+export PACT_EXPERIMENT_ROOT="$PWD/scratch"
+```
+
+Use a larger external volume for bulk EDA output. Individual tool overrides take precedence over the dependency root. Adapters use the current interpreter unless `PACT_PYTHON` selects a separate qualified environment. Dependency fetching does not install compilers or execute experiments; an arbitrary current OpenROAD build is not the historical benchmark backend.

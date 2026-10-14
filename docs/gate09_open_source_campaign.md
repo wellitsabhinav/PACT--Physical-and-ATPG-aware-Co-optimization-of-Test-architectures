@@ -1,5 +1,7 @@
 # Gate 09 execution and evidence
 
+> Retained method/evidence from the completed campaign. The [final project status](research_status.md) is frozen after Gate 10A; historical next steps and rerun commands do not prescribe new research.
+
 The primary campaign evaluates frozen PACT on the preregistered b14/b15/b17/b18 cohort, with B0–B5 under a common implementation backend. The two base families are b14 and b15; the related compositions supply scaling evidence.
 
 - [Preregistration and frozen file hashes](../results/pact_gate9_large_scale_unseen_20261005/benchmark_preregistration.json)

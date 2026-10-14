@@ -1,5 +1,7 @@
 # Stage-B method interface
 
+> Retained method/evidence from the completed campaign. The [final project status](research_status.md) is frozen after Gate 10A; historical next steps and rerun commands do not prescribe new research.
+
 Stage B constrains port-inclusive scan HPWL relative to the routed-best B2/B3T reference, then retains E, H4, H8 and balanced endpoint winners. Exact reversed B3T capacities are preserved. The portable interface reconstructs the frozen candidate-stateful model; physical qualification is separate.
 
 ```sh

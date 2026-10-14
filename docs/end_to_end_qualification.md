@@ -1,11 +1,13 @@
 # End-to-end qualification
 
+> Retained method/evidence from the completed campaign. The [final project status](research_status.md) is frozen after Gate 10A; historical next steps and rerun commands do not prescribe new research.
+
 The sealed current result is `PACT_END_TO_END_SOLUTION_QUALIFIED` for s5378, s9234 and s15850, using the existing Stage-B method. [The report](../results/pact_end_to_end_20261004/REPORT.md) retains all nine candidates and their negative outcomes. [The canonical dataset](../results/pact_end_to_end_20261004/canonical_results.json) contains exact identities, configuration, predictions, measured values, fault counts, gates and provenance. [The immutable references](../results/pact_end_to_end_20261004/frozen_baselines.json) select B2/B3T/B2 by minimum qualified routed scan cost.
 
 This qualification reuses the executed searches and exact routed/extracted implementations after checking their hashes and conditions. It adds independent serial replay and FAN stuck-at simulation for each reference and selected order. It does not repeat the search, routing or historical matrices.
 
 ```sh
-python scripts/verify_end_to_end.py
+python scripts/verify_end_to_end.py --verification-output scratch/end_to_end_verification.json
 ```
 
 This verifies the delivered architectures, complete fault-class exports, recovered functional workloads, measured-value preservation and deltas without EDA tools. Full physical source data remain in the original experiment store; a fresh physical campaign requires the hash-bound inputs described in [reproducibility](reproducibility.md).

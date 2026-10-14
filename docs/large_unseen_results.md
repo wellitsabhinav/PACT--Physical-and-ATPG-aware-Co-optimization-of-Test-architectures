@@ -1,5 +1,7 @@
 # Large unseen design results
 
+> Retained method/evidence from the completed campaign. The [final project status](research_status.md) is frozen after Gate 10A; historical next steps and rerun commands do not prescribe new research.
+
 Both s38584 and s38417 completed three cold-search lanes. Three candidates per design were frozen before physical implementation, and all six passed the existing topology, routing, DRC, timing, FAN and exact compact activity checks.
 
 The preregistered secondary s38417 CS_C2 reduced E by 0.3164%, H4 by 2.4396% and H8 by 0.9961%, with 1.0144% more routed scan wirelength. It had zero DRC errors, nonnegative setup/hold WNS and 96% fault coverage. The other five candidates produced mixed activity tradeoffs. The balanced CS_C1 candidates remain the primary roles; no candidate was selected after routed outcomes.

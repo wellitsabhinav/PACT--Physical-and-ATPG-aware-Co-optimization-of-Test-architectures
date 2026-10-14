@@ -1,5 +1,7 @@
 # Prospective cold-start PACT input contract
 
+> Retained method/evidence from the completed campaign. The [final project status](research_status.md) is frozen after Gate 10A; historical next steps and rerun commands do not prescribe new research.
+
 `ColdStartPACTInput` in `src/pact/optimizer/cold_start.py` loads a
 `pact_cold_start_input_v1` JSON manifest. The design name is an artifact identity;
 it does not select a Python lookup table. A new design is introduced by supplying
