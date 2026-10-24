@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "F:\Research\PACT\Gate11\01_inputs\S008\PACT\scripts\verify_reproducibility.py", line 13, in <module>
+    from pact.optimizer.candidate_stateful import State, reference
+  File "F:\Research\PACT\Gate11\01_inputs\S008\PACT\src\pact\optimizer\candidate_stateful.py", line 9, in <module>
+    from numba import njit
+ModuleNotFoundError: No module named 'numba'

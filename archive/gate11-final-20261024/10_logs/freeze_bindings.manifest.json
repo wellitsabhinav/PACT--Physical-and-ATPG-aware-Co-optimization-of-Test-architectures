@@ -1,0 +1,38 @@
+{
+  "name": "freeze_bindings",
+  "command": [
+    "D:\\Python\\python.exe",
+    "-B",
+    "F:\\Research\\PACT\\Gate11\\09_scripts\\freeze_and_bindings.py"
+  ],
+  "cwd": "F:\\Research\\PACT\\Gate11",
+  "started_utc": "2026-10-23T04:20:09.309072+00:00",
+  "status": "PASS",
+  "environment": {
+    "TEMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMPDIR": "F:\\Research\\PACT\\Gate11\\tmp",
+    "PIP_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\pip",
+    "XDG_CACHE_HOME": "F:\\Research\\PACT\\Gate11\\cache\\xdg",
+    "XDG_CONFIG_HOME": "F:\\Research\\PACT\\Gate11\\cache\\config",
+    "PYTHONPYCACHEPREFIX": "F:\\Research\\PACT\\Gate11\\cache\\pycache",
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "MPLCONFIGDIR": "F:\\Research\\PACT\\Gate11\\cache\\matplotlib",
+    "NUMBA_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\numba",
+    "HOME": "F:\\Research\\PACT\\Gate11\\cache\\home",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "disk_before_bytes": 581233455,
+  "command_file_hashes": {
+    "D:\\Python\\python.exe": "5aba6ec903f2e0e946459f98dc45c8129d3f22187f5adac00713d733191d3a3f",
+    "F:\\Research\\PACT\\Gate11\\09_scripts\\freeze_and_bindings.py": "53f46459b8419d9e431656fe2dae695dadfd9a39b70a3b94496cd5e5738b4245"
+  },
+  "returncode": 0,
+  "completed_utc": "2026-10-23T04:20:11.624454+00:00",
+  "wall_seconds": 2.0160000000000764,
+  "cpu_seconds": 1.828125,
+  "peak_working_set_bytes": 364089344,
+  "disk_after_bytes": 581459248
+}

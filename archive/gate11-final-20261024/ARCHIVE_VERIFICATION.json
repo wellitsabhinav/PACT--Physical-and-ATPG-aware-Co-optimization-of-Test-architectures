@@ -1,0 +1,10 @@
+{
+  "input_members": 4585,
+  "copied_files": 103,
+  "json_files": 39,
+  "python_scripts": 19,
+  "failures": [],
+  "archive_bytes": 67730182,
+  "input_archive_sha256": "555d0d66cd812e738ef0daa3ec05b4bf705f63f111cd201d13af9597e46da64f",
+  "status": "PASS"
+}

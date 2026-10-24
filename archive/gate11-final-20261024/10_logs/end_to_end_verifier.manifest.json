@@ -1,0 +1,40 @@
+{
+  "name": "end_to_end_verifier",
+  "command": [
+    "D:\\Python\\python.exe",
+    "-B",
+    "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\scripts\\verify_end_to_end.py",
+    "--verification-output",
+    "F:\\Research\\PACT\\Gate11\\02_reproduction\\end_to_end_verification.json"
+  ],
+  "cwd": "F:\\Research\\PACT\\Gate11",
+  "started_utc": "2026-10-23T04:20:28.948420+00:00",
+  "status": "PASS",
+  "environment": {
+    "TEMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMPDIR": "F:\\Research\\PACT\\Gate11\\tmp",
+    "PIP_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\pip",
+    "XDG_CACHE_HOME": "F:\\Research\\PACT\\Gate11\\cache\\xdg",
+    "XDG_CONFIG_HOME": "F:\\Research\\PACT\\Gate11\\cache\\config",
+    "PYTHONPYCACHEPREFIX": "F:\\Research\\PACT\\Gate11\\cache\\pycache",
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "MPLCONFIGDIR": "F:\\Research\\PACT\\Gate11\\cache\\matplotlib",
+    "NUMBA_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\numba",
+    "HOME": "F:\\Research\\PACT\\Gate11\\cache\\home",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "disk_before_bytes": 581459462,
+  "command_file_hashes": {
+    "D:\\Python\\python.exe": "5aba6ec903f2e0e946459f98dc45c8129d3f22187f5adac00713d733191d3a3f",
+    "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\scripts\\verify_end_to_end.py": "cd2e440a44b7e83e321f411dcad3955422d6b0b18f1850f28e580bafc7edb93a"
+  },
+  "returncode": 0,
+  "completed_utc": "2026-10-23T04:20:33.531448+00:00",
+  "wall_seconds": 4.25,
+  "cpu_seconds": 2.28125,
+  "peak_working_set_bytes": 68489216,
+  "disk_after_bytes": 581463594
+}

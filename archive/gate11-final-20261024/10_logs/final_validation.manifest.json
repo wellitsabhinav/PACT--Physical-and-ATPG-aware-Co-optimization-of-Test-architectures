@@ -1,0 +1,38 @@
+{
+  "name": "final_validation",
+  "command": [
+    "D:\\Python\\python.exe",
+    "-B",
+    "F:\\Research\\PACT\\Gate11\\09_scripts\\validate_package.py"
+  ],
+  "cwd": "F:\\Research\\PACT\\Gate11",
+  "started_utc": "2026-10-23T04:47:51.388355+00:00",
+  "status": "FAILED",
+  "environment": {
+    "TEMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMPDIR": "F:\\Research\\PACT\\Gate11\\tmp",
+    "PIP_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\pip",
+    "XDG_CACHE_HOME": "F:\\Research\\PACT\\Gate11\\cache\\xdg",
+    "XDG_CONFIG_HOME": "F:\\Research\\PACT\\Gate11\\cache\\config",
+    "PYTHONPYCACHEPREFIX": "F:\\Research\\PACT\\Gate11\\cache\\pycache",
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "MPLCONFIGDIR": "F:\\Research\\PACT\\Gate11\\cache\\matplotlib",
+    "NUMBA_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\numba",
+    "HOME": "F:\\Research\\PACT\\Gate11\\cache\\home",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "disk_before_bytes": 597182921,
+  "command_file_hashes": {
+    "D:\\Python\\python.exe": "5aba6ec903f2e0e946459f98dc45c8129d3f22187f5adac00713d733191d3a3f",
+    "F:\\Research\\PACT\\Gate11\\09_scripts\\validate_package.py": "24091111ed134914e89335058bd0b86417f08935832f2bfda3fb362bff40fe40"
+  },
+  "returncode": 1,
+  "completed_utc": "2026-10-23T04:48:48.849594+00:00",
+  "wall_seconds": 57.125,
+  "cpu_seconds": 11.15625,
+  "peak_working_set_bytes": 30466048,
+  "disk_after_bytes": 597184971
+}

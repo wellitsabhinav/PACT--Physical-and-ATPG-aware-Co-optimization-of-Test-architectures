@@ -1,0 +1,38 @@
+{
+  "name": "predictor_transfer",
+  "command": [
+    "D:\\Python\\python.exe",
+    "-B",
+    "F:\\Research\\PACT\\Gate11\\09_scripts\\enrich_predicted_transfer.py"
+  ],
+  "cwd": "F:\\Research\\PACT\\Gate11",
+  "started_utc": "2026-10-23T04:33:40.108368+00:00",
+  "status": "PASS",
+  "environment": {
+    "TEMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMPDIR": "F:\\Research\\PACT\\Gate11\\tmp",
+    "PIP_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\pip",
+    "XDG_CACHE_HOME": "F:\\Research\\PACT\\Gate11\\cache\\xdg",
+    "XDG_CONFIG_HOME": "F:\\Research\\PACT\\Gate11\\cache\\config",
+    "PYTHONPYCACHEPREFIX": "F:\\Research\\PACT\\Gate11\\cache\\pycache",
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "MPLCONFIGDIR": "F:\\Research\\PACT\\Gate11\\cache\\matplotlib",
+    "NUMBA_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\numba",
+    "HOME": "F:\\Research\\PACT\\Gate11\\cache\\home",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "disk_before_bytes": 596988486,
+  "command_file_hashes": {
+    "D:\\Python\\python.exe": "5aba6ec903f2e0e946459f98dc45c8129d3f22187f5adac00713d733191d3a3f",
+    "F:\\Research\\PACT\\Gate11\\09_scripts\\enrich_predicted_transfer.py": "61d3caa266126a089580bdaeed572cea0dd7545c85bc0f18313875d973f1d29b"
+  },
+  "returncode": 0,
+  "completed_utc": "2026-10-23T04:33:40.683238+00:00",
+  "wall_seconds": 0.26499999999987267,
+  "cpu_seconds": 0.25,
+  "peak_working_set_bytes": 18067456,
+  "disk_after_bytes": 597072808
+}

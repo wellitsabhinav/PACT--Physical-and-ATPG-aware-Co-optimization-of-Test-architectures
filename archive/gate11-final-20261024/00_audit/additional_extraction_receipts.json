@@ -1,0 +1,51 @@
+[
+  {
+    "path": "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\external\\OpenROAD-flow-scripts\\flow\\platforms\\nangate45\\grid_strategy-M1-M4-M7.tcl",
+    "sha256": "13f6979391f4e5373b6e0b9e9df6f8f07f69787e970e13e5d170f830b83006db",
+    "archive": "F:\\Research_Archives\\PACT\\Repository\\PRIVATE_S008_repository.tar.zst",
+    "member": "PACT/external/OpenROAD-flow-scripts/flow/platforms/nangate45/grid_strategy-M1-M4-M7.tcl",
+    "bytes": 2370
+  },
+  {
+    "path": "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\external\\OpenROAD-flow-scripts\\flow\\platforms\\nangate45\\lib\\NangateOpenCellLibrary_typical.lib",
+    "sha256": "8d540a4d4cf6d09d27c87ad067857a9c0c2eeb023ab7a56e058cd3113db4e9b1",
+    "archive": "F:\\Research_Archives\\PACT\\Repository\\PRIVATE_S008_repository.tar.zst",
+    "member": "PACT/external/OpenROAD-flow-scripts/flow/platforms/nangate45/lib/NangateOpenCellLibrary_typical.lib",
+    "bytes": 6692032
+  },
+  {
+    "path": "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\external\\OpenROAD-flow-scripts\\flow\\platforms\\nangate45\\setRC.tcl",
+    "sha256": "521df813bf4da9d7400df33e3f680c9a328cc720830dbfca1188083741503fa5",
+    "archive": "F:\\Research_Archives\\PACT\\Repository\\PRIVATE_S008_repository.tar.zst",
+    "member": "PACT/external/OpenROAD-flow-scripts/flow/platforms/nangate45/setRC.tcl",
+    "bytes": 828
+  },
+  {
+    "path": "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\artifacts\\raw\\phase0b\\placements\\s15850\\s11\\placed.def",
+    "sha256": "a2a41986c43d596cbdf46a9b278ac1c2b259229748108055d50eb525bca31aad",
+    "archive": "F:\\Research_Archives\\PACT\\Archives\\PRIVATE_S008_evidence.tar.zst",
+    "member": "PACT/artifacts/raw/phase0b/placements/s15850/s11/placed.def",
+    "bytes": 962818
+  },
+  {
+    "path": "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\artifacts\\raw\\phase0b\\placements\\s5378\\s11\\placed.def",
+    "sha256": "e906065d75f3f3ecab2c723a33259f33d0c14089a73adb3c34d4daf82001c2fb",
+    "archive": "F:\\Research_Archives\\PACT\\Archives\\PRIVATE_S008_evidence.tar.zst",
+    "member": "PACT/artifacts/raw/phase0b/placements/s5378/s11/placed.def",
+    "bytes": 399542
+  },
+  {
+    "path": "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\artifacts\\raw\\phase0b\\placements\\s9234\\s11\\placed.def",
+    "sha256": "5fcb9e0c5ab8d5f3b3038b915e173e52cac369d7fef05ce4c6d4bffa9ebe3c5a",
+    "archive": "F:\\Research_Archives\\PACT\\Archives\\PRIVATE_S008_evidence.tar.zst",
+    "member": "PACT/artifacts/raw/phase0b/placements/s9234/s11/placed.def",
+    "bytes": 491817
+  },
+  {
+    "path": "F:\\Research\\PACT\\Gate11\\01_inputs\\S008\\PACT\\artifacts\\raw\\phase0b\\rewire\\s5378\\s11\\P\\rewired.def",
+    "sha256": "0d79693be7aa566a4b5528c994d4040bdda2aa1cb0a6e4d5830decc81e2500cb",
+    "archive": "F:\\Research_Archives\\PACT\\Archives\\PRIVATE_S008_evidence.tar.zst",
+    "member": "PACT/artifacts/raw/phase0b/rewire/s5378/s11/P/rewired.def",
+    "bytes": 399542
+  }
+]

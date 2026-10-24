@@ -1,0 +1,1688 @@
+[
+  {
+    "source": "S002",
+    "top": "cache",
+    "count": 2211,
+    "bytes": 54706825
+  },
+  {
+    "source": "S002",
+    "top": "logs",
+    "count": 2,
+    "bytes": 7180
+  },
+  {
+    "source": "S002",
+    "top": "pytest_tmp",
+    "count": 686,
+    "bytes": 2093305
+  },
+  {
+    "source": "S002",
+    "top": "results",
+    "count": 19412,
+    "bytes": 19086789063
+  },
+  {
+    "source": "S002",
+    "top": "tmp",
+    "count": 18694,
+    "bytes": 5704711928
+  },
+  {
+    "source": "S008",
+    "top": ".github-publication-env",
+    "count": 13276,
+    "bytes": 502672362
+  },
+  {
+    "source": "S008",
+    "top": ".pact-validation-env",
+    "count": 13286,
+    "bytes": 502648296
+  },
+  {
+    "source": "S008",
+    "top": "PACT",
+    "count": 26579,
+    "bytes": 5363445760
+  },
+  {
+    "source": "S008",
+    "top": "campaign-control",
+    "count": 35,
+    "bytes": 661253
+  },
+  {
+    "source": "S008",
+    "top": "cleanup-preserved-work",
+    "count": 7,
+    "bytes": 1420149
+  },
+  {
+    "source": "S008",
+    "top": "cleanup-work",
+    "count": 24,
+    "bytes": 4222071
+  },
+  {
+    "source": "S008",
+    "top": "forensic-quarantine",
+    "count": 555,
+    "bytes": 6475383
+  },
+  {
+    "source": "S008",
+    "top": "forensic-work",
+    "count": 1417,
+    "bytes": 84746968
+  },
+  {
+    "source": "S008",
+    "top": "interview-manual-work",
+    "count": 106,
+    "bytes": 20287726
+  },
+  {
+    "source": "S008",
+    "top": "openroad-dashboard-work",
+    "count": 49,
+    "bytes": 3468431
+  },
+  {
+    "source": "S008",
+    "top": "openroad-manual-work",
+    "count": 285,
+    "bytes": 49916877
+  },
+  {
+    "source": "S008",
+    "top": "opensta-536-upstream",
+    "count": 759,
+    "bytes": 34912516
+  },
+  {
+    "source": "S008",
+    "top": "opensta-537-deps",
+    "count": 625,
+    "bytes": 24696442
+  },
+  {
+    "source": "S008",
+    "top": "opensta-537-validation",
+    "count": 41,
+    "bytes": 250048
+  },
+  {
+    "source": "S008",
+    "top": "opensta-537-work",
+    "count": 810,
+    "bytes": 62105322
+  },
+  {
+    "source": "S008",
+    "top": "pr-11624-investigation",
+    "count": 38,
+    "bytes": 26889639
+  },
+  {
+    "source": "S008",
+    "top": "pr-11624-opensta-resolution",
+    "count": 1706,
+    "bytes": 403684184
+  },
+  {
+    "source": "S008",
+    "top": "pr-11624-resolution",
+    "count": 13331,
+    "bytes": 4006662435
+  },
+  {
+    "source": "S008",
+    "top": "pr-11624-work",
+    "count": 47,
+    "bytes": 329857248
+  },
+  {
+    "source": "S008",
+    "top": "pr-420-investigation",
+    "count": 36,
+    "bytes": 15569672
+  },
+  {
+    "source": "S008",
+    "top": "public-release-audit",
+    "count": 10,
+    "bytes": 1086048
+  },
+  {
+    "source": "S010",
+    "top": "PACT_Inspection_Audit.json",
+    "count": 1,
+    "bytes": 393414
+  },
+  {
+    "source": "S010",
+    "top": "PACT_Interview_Manual.html",
+    "count": 1,
+    "bytes": 945495
+  },
+  {
+    "source": "S010",
+    "top": "PACT_Interview_Manual.md",
+    "count": 1,
+    "bytes": 221037
+  },
+  {
+    "source": "S010",
+    "top": "PACT_Interview_Manual.pdf",
+    "count": 1,
+    "bytes": 1507998
+  },
+  {
+    "source": "S010",
+    "top": "website",
+    "count": 13,
+    "bytes": 1958014
+  },
+  {
+    "source": "S013",
+    "top": "src",
+    "count": 32,
+    "bytes": 903136001
+  },
+  {
+    "source": "S013",
+    "top": "test",
+    "count": 5,
+    "bytes": 180204022
+  },
+  {
+    "source": "S085",
+    "top": "README.md",
+    "count": 1,
+    "bytes": 17296
+  },
+  {
+    "source": "S085",
+    "top": "branches.json",
+    "count": 1,
+    "bytes": 5721
+  },
+  {
+    "source": "S085",
+    "top": "commits.json",
+    "count": 1,
+    "bytes": 26338
+  },
+  {
+    "source": "S085",
+    "top": "metadata.json",
+    "count": 1,
+    "bytes": 10070
+  },
+  {
+    "source": "S085",
+    "top": "pulls.json",
+    "count": 1,
+    "bytes": 213784
+  },
+  {
+    "source": "S085",
+    "top": "readme.json",
+    "count": 1,
+    "bytes": 24870
+  },
+  {
+    "source": "S085",
+    "top": "releases.json",
+    "count": 1,
+    "bytes": 2
+  },
+  {
+    "source": "S085",
+    "top": "runs.json",
+    "count": 1,
+    "bytes": 62304
+  },
+  {
+    "source": "S085",
+    "top": "tree.json",
+    "count": 1,
+    "bytes": 2103389
+  },
+  {
+    "source": "S085",
+    "top": "workflows.json",
+    "count": 1,
+    "bytes": 844
+  },
+  {
+    "source": "S086",
+    "top": "docs",
+    "count": 1,
+    "bytes": 8767
+  },
+  {
+    "source": "S086",
+    "top": "reports",
+    "count": 3,
+    "bytes": 28856
+  },
+  {
+    "source": "S097",
+    "top": "PACT_README.md",
+    "count": 1,
+    "bytes": 17103
+  },
+  {
+    "source": "S098",
+    "top": "PACT_upstream.md",
+    "count": 1,
+    "bytes": 2133
+  },
+  {
+    "source": "S101",
+    "top": "PACT_Interview_Manual.pdf",
+    "count": 1,
+    "bytes": 1507998
+  },
+  {
+    "source": "W001",
+    "top": ".agents",
+    "count": 4,
+    "bytes": 19517
+  },
+  {
+    "source": "W001",
+    "top": ".bant-macros",
+    "count": 1,
+    "bytes": 2022
+  },
+  {
+    "source": "W001",
+    "top": ".bazelignore",
+    "count": 1,
+    "bytes": 644
+  },
+  {
+    "source": "W001",
+    "top": ".bazelrc",
+    "count": 1,
+    "bytes": 17501
+  },
+  {
+    "source": "W001",
+    "top": ".bazelversion",
+    "count": 1,
+    "bytes": 6
+  },
+  {
+    "source": "W001",
+    "top": ".buildifier.json",
+    "count": 1,
+    "bytes": 83
+  },
+  {
+    "source": "W001",
+    "top": ".clang-format",
+    "count": 1,
+    "bytes": 908
+  },
+  {
+    "source": "W001",
+    "top": ".clang-tidy",
+    "count": 1,
+    "bytes": 5059
+  },
+  {
+    "source": "W001",
+    "top": ".claude",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W001",
+    "top": ".dockerignore",
+    "count": 1,
+    "bytes": 63
+  },
+  {
+    "source": "W001",
+    "top": ".gemini",
+    "count": 2,
+    "bytes": 202
+  },
+  {
+    "source": "W001",
+    "top": ".git",
+    "count": 20,
+    "bytes": 1213832
+  },
+  {
+    "source": "W001",
+    "top": ".github",
+    "count": 32,
+    "bytes": 66178
+  },
+  {
+    "source": "W001",
+    "top": ".gitignore",
+    "count": 1,
+    "bytes": 810
+  },
+  {
+    "source": "W001",
+    "top": ".gitmodules",
+    "count": 1,
+    "bytes": 282
+  },
+  {
+    "source": "W001",
+    "top": ".readthedocs.yaml",
+    "count": 1,
+    "bytes": 802
+  },
+  {
+    "source": "W001",
+    "top": ".scalafmt.conf",
+    "count": 1,
+    "bytes": 44
+  },
+  {
+    "source": "W001",
+    "top": "AGENTS.md",
+    "count": 1,
+    "bytes": 1809
+  },
+  {
+    "source": "W001",
+    "top": "AUTHORS",
+    "count": 1,
+    "bytes": 656
+  },
+  {
+    "source": "W001",
+    "top": "BUILD.bazel",
+    "count": 1,
+    "bytes": 23330
+  },
+  {
+    "source": "W001",
+    "top": "CLAUDE.md",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W001",
+    "top": "CMakeGraphVizOptions.cmake",
+    "count": 1,
+    "bytes": 198
+  },
+  {
+    "source": "W001",
+    "top": "CMakeLists.txt",
+    "count": 1,
+    "bytes": 13617
+  },
+  {
+    "source": "W001",
+    "top": "CODE_OF_CONDUCT.md",
+    "count": 1,
+    "bytes": 5227
+  },
+  {
+    "source": "W001",
+    "top": "CONTRIBUTING.md",
+    "count": 1,
+    "bytes": 3952
+  },
+  {
+    "source": "W001",
+    "top": "Dockerfile",
+    "count": 1,
+    "bytes": 3230
+  },
+  {
+    "source": "W001",
+    "top": "Doxyfile",
+    "count": 1,
+    "bytes": 785
+  },
+  {
+    "source": "W001",
+    "top": "Jenkinsfile",
+    "count": 1,
+    "bytes": 114
+  },
+  {
+    "source": "W001",
+    "top": "LICENSE",
+    "count": 1,
+    "bytes": 1542
+  },
+  {
+    "source": "W001",
+    "top": "MODULE.bazel",
+    "count": 1,
+    "bytes": 22118
+  },
+  {
+    "source": "W001",
+    "top": "MODULE.bazel.lock",
+    "count": 1,
+    "bytes": 862852
+  },
+  {
+    "source": "W001",
+    "top": "README.md",
+    "count": 1,
+    "bytes": 14697
+  },
+  {
+    "source": "W001",
+    "top": "bazel",
+    "count": 62,
+    "bytes": 227509
+  },
+  {
+    "source": "W001",
+    "top": "bazel-bin",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W001",
+    "top": "bazel-openroad",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W001",
+    "top": "bazel-out",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W001",
+    "top": "bazel-testlogs",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W001",
+    "top": "claude.sh",
+    "count": 1,
+    "bytes": 5300
+  },
+  {
+    "source": "W001",
+    "top": "cmake",
+    "count": 4,
+    "bytes": 16971
+  },
+  {
+    "source": "W001",
+    "top": "default.nix",
+    "count": 1,
+    "bytes": 3312
+  },
+  {
+    "source": "W001",
+    "top": "docs",
+    "count": 81,
+    "bytes": 3130094
+  },
+  {
+    "source": "W001",
+    "top": "etc",
+    "count": 33,
+    "bytes": 218411
+  },
+  {
+    "source": "W001",
+    "top": "flake.lock",
+    "count": 1,
+    "bytes": 564
+  },
+  {
+    "source": "W001",
+    "top": "flake.nix",
+    "count": 1,
+    "bytes": 1794
+  },
+  {
+    "source": "W001",
+    "top": "include",
+    "count": 6,
+    "bytes": 18849
+  },
+  {
+    "source": "W001",
+    "top": "jenkins",
+    "count": 3,
+    "bytes": 365
+  },
+  {
+    "source": "W001",
+    "top": "packaging",
+    "count": 1,
+    "bytes": 1008
+  },
+  {
+    "source": "W001",
+    "top": "pyproject.toml",
+    "count": 1,
+    "bytes": 92
+  },
+  {
+    "source": "W001",
+    "top": "python",
+    "count": 32,
+    "bytes": 16187
+  },
+  {
+    "source": "W001",
+    "top": "src",
+    "count": 12187,
+    "bytes": 1527902547
+  },
+  {
+    "source": "W001",
+    "top": "tclint.toml",
+    "count": 1,
+    "bytes": 189
+  },
+  {
+    "source": "W001",
+    "top": "test",
+    "count": 307,
+    "bytes": 309340471
+  },
+  {
+    "source": "W001",
+    "top": "third-party",
+    "count": 3236,
+    "bytes": 59627866
+  },
+  {
+    "source": "W001",
+    "top": "tools",
+    "count": 3,
+    "bytes": 2063
+  },
+  {
+    "source": "W001",
+    "top": "yamlfix.ignore",
+    "count": 1,
+    "bytes": 1921
+  },
+  {
+    "source": "W001",
+    "top": "yamlfix.toml",
+    "count": 1,
+    "bytes": 340
+  },
+  {
+    "source": "W002",
+    "top": ".agents",
+    "count": 4,
+    "bytes": 19517
+  },
+  {
+    "source": "W002",
+    "top": ".bant-macros",
+    "count": 1,
+    "bytes": 2022
+  },
+  {
+    "source": "W002",
+    "top": ".bazelignore",
+    "count": 1,
+    "bytes": 644
+  },
+  {
+    "source": "W002",
+    "top": ".bazelrc",
+    "count": 1,
+    "bytes": 17501
+  },
+  {
+    "source": "W002",
+    "top": ".bazelversion",
+    "count": 1,
+    "bytes": 6
+  },
+  {
+    "source": "W002",
+    "top": ".buildifier.json",
+    "count": 1,
+    "bytes": 83
+  },
+  {
+    "source": "W002",
+    "top": ".clang-format",
+    "count": 1,
+    "bytes": 908
+  },
+  {
+    "source": "W002",
+    "top": ".clang-tidy",
+    "count": 1,
+    "bytes": 5059
+  },
+  {
+    "source": "W002",
+    "top": ".claude",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W002",
+    "top": ".dockerignore",
+    "count": 1,
+    "bytes": 63
+  },
+  {
+    "source": "W002",
+    "top": ".gemini",
+    "count": 2,
+    "bytes": 202
+  },
+  {
+    "source": "W002",
+    "top": ".git",
+    "count": 20,
+    "bytes": 1213832
+  },
+  {
+    "source": "W002",
+    "top": ".github",
+    "count": 32,
+    "bytes": 66178
+  },
+  {
+    "source": "W002",
+    "top": ".gitignore",
+    "count": 1,
+    "bytes": 810
+  },
+  {
+    "source": "W002",
+    "top": ".gitmodules",
+    "count": 1,
+    "bytes": 282
+  },
+  {
+    "source": "W002",
+    "top": ".readthedocs.yaml",
+    "count": 1,
+    "bytes": 802
+  },
+  {
+    "source": "W002",
+    "top": ".scalafmt.conf",
+    "count": 1,
+    "bytes": 44
+  },
+  {
+    "source": "W002",
+    "top": "AGENTS.md",
+    "count": 1,
+    "bytes": 1809
+  },
+  {
+    "source": "W002",
+    "top": "AUTHORS",
+    "count": 1,
+    "bytes": 656
+  },
+  {
+    "source": "W002",
+    "top": "BUILD.bazel",
+    "count": 1,
+    "bytes": 23330
+  },
+  {
+    "source": "W002",
+    "top": "CLAUDE.md",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W002",
+    "top": "CMakeGraphVizOptions.cmake",
+    "count": 1,
+    "bytes": 198
+  },
+  {
+    "source": "W002",
+    "top": "CMakeLists.txt",
+    "count": 1,
+    "bytes": 13617
+  },
+  {
+    "source": "W002",
+    "top": "CODE_OF_CONDUCT.md",
+    "count": 1,
+    "bytes": 5227
+  },
+  {
+    "source": "W002",
+    "top": "CONTRIBUTING.md",
+    "count": 1,
+    "bytes": 3952
+  },
+  {
+    "source": "W002",
+    "top": "Dockerfile",
+    "count": 1,
+    "bytes": 3230
+  },
+  {
+    "source": "W002",
+    "top": "Doxyfile",
+    "count": 1,
+    "bytes": 785
+  },
+  {
+    "source": "W002",
+    "top": "Jenkinsfile",
+    "count": 1,
+    "bytes": 114
+  },
+  {
+    "source": "W002",
+    "top": "LICENSE",
+    "count": 1,
+    "bytes": 1542
+  },
+  {
+    "source": "W002",
+    "top": "MODULE.bazel",
+    "count": 1,
+    "bytes": 22118
+  },
+  {
+    "source": "W002",
+    "top": "MODULE.bazel.lock",
+    "count": 1,
+    "bytes": 862852
+  },
+  {
+    "source": "W002",
+    "top": "README.md",
+    "count": 1,
+    "bytes": 14697
+  },
+  {
+    "source": "W002",
+    "top": "bazel",
+    "count": 62,
+    "bytes": 227509
+  },
+  {
+    "source": "W002",
+    "top": "bazel-bin",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W002",
+    "top": "bazel-openroad",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W002",
+    "top": "bazel-out",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W002",
+    "top": "bazel-testlogs",
+    "count": 1,
+    "bytes": 0
+  },
+  {
+    "source": "W002",
+    "top": "claude.sh",
+    "count": 1,
+    "bytes": 5300
+  },
+  {
+    "source": "W002",
+    "top": "cmake",
+    "count": 4,
+    "bytes": 16971
+  },
+  {
+    "source": "W002",
+    "top": "default.nix",
+    "count": 1,
+    "bytes": 3312
+  },
+  {
+    "source": "W002",
+    "top": "docs",
+    "count": 81,
+    "bytes": 3130094
+  },
+  {
+    "source": "W002",
+    "top": "etc",
+    "count": 33,
+    "bytes": 218411
+  },
+  {
+    "source": "W002",
+    "top": "flake.lock",
+    "count": 1,
+    "bytes": 564
+  },
+  {
+    "source": "W002",
+    "top": "flake.nix",
+    "count": 1,
+    "bytes": 1794
+  },
+  {
+    "source": "W002",
+    "top": "include",
+    "count": 6,
+    "bytes": 18849
+  },
+  {
+    "source": "W002",
+    "top": "jenkins",
+    "count": 3,
+    "bytes": 365
+  },
+  {
+    "source": "W002",
+    "top": "packaging",
+    "count": 1,
+    "bytes": 1008
+  },
+  {
+    "source": "W002",
+    "top": "pyproject.toml",
+    "count": 1,
+    "bytes": 92
+  },
+  {
+    "source": "W002",
+    "top": "python",
+    "count": 32,
+    "bytes": 16187
+  },
+  {
+    "source": "W002",
+    "top": "src",
+    "count": 12206,
+    "bytes": 1527957423
+  },
+  {
+    "source": "W002",
+    "top": "tclint.toml",
+    "count": 1,
+    "bytes": 189
+  },
+  {
+    "source": "W002",
+    "top": "test",
+    "count": 307,
+    "bytes": 309340471
+  },
+  {
+    "source": "W002",
+    "top": "third-party",
+    "count": 3236,
+    "bytes": 59627866
+  },
+  {
+    "source": "W002",
+    "top": "tools",
+    "count": 3,
+    "bytes": 2063
+  },
+  {
+    "source": "W002",
+    "top": "yamlfix.ignore",
+    "count": 1,
+    "bytes": 1921
+  },
+  {
+    "source": "W002",
+    "top": "yamlfix.toml",
+    "count": 1,
+    "bytes": 340
+  },
+  {
+    "source": "W003",
+    "top": ".clang-format",
+    "count": 1,
+    "bytes": 910
+  },
+  {
+    "source": "W003",
+    "top": ".clang-tidy",
+    "count": 1,
+    "bytes": 2994
+  },
+  {
+    "source": "W003",
+    "top": ".cursor",
+    "count": 3,
+    "bytes": 5491
+  },
+  {
+    "source": "W003",
+    "top": ".dockerignore",
+    "count": 1,
+    "bytes": 37
+  },
+  {
+    "source": "W003",
+    "top": ".github",
+    "count": 9,
+    "bytes": 13691
+  },
+  {
+    "source": "W003",
+    "top": ".gitignore",
+    "count": 1,
+    "bytes": 455
+  },
+  {
+    "source": "W003",
+    "top": ".readthedocs.yaml",
+    "count": 1,
+    "bytes": 493
+  },
+  {
+    "source": "W003",
+    "top": "BUILD.bazel",
+    "count": 1,
+    "bytes": 11444
+  },
+  {
+    "source": "W003",
+    "top": "Brewfile",
+    "count": 1,
+    "bytes": 159
+  },
+  {
+    "source": "W003",
+    "top": "CMakeLists.txt",
+    "count": 1,
+    "bytes": 20514
+  },
+  {
+    "source": "W003",
+    "top": "Dockerfile.ubuntu22.04",
+    "count": 1,
+    "bytes": 957
+  },
+  {
+    "source": "W003",
+    "top": "Dockerfile.ubuntu24.04",
+    "count": 1,
+    "bytes": 938
+  },
+  {
+    "source": "W003",
+    "top": "Jenkinsfile",
+    "count": 1,
+    "bytes": 119
+  },
+  {
+    "source": "W003",
+    "top": "LICENSE",
+    "count": 1,
+    "bytes": 35149
+  },
+  {
+    "source": "W003",
+    "top": "README.md",
+    "count": 1,
+    "bytes": 10441
+  },
+  {
+    "source": "W003",
+    "top": "app",
+    "count": 3,
+    "bytes": 11683
+  },
+  {
+    "source": "W003",
+    "top": "build",
+    "count": 375,
+    "bytes": 869970754
+  },
+  {
+    "source": "W003",
+    "top": "cmake",
+    "count": 4,
+    "bytes": 9552
+  },
+  {
+    "source": "W003",
+    "top": "dcalc",
+    "count": 51,
+    "bytes": 578545
+  },
+  {
+    "source": "W003",
+    "top": "doc",
+    "count": 18,
+    "bytes": 358228
+  },
+  {
+    "source": "W003",
+    "top": "etc",
+    "count": 7,
+    "bytes": 24132
+  },
+  {
+    "source": "W003",
+    "top": "examples",
+    "count": 31,
+    "bytes": 9266253
+  },
+  {
+    "source": "W003",
+    "top": "graph",
+    "count": 34,
+    "bytes": 609108
+  },
+  {
+    "source": "W003",
+    "top": "include",
+    "count": 112,
+    "bytes": 780802
+  },
+  {
+    "source": "W003",
+    "top": "liberty",
+    "count": 139,
+    "bytes": 50841801
+  },
+  {
+    "source": "W003",
+    "top": "mkdocs.yml",
+    "count": 1,
+    "bytes": 1169
+  },
+  {
+    "source": "W003",
+    "top": "network",
+    "count": 76,
+    "bytes": 840225
+  },
+  {
+    "source": "W003",
+    "top": "parasitics",
+    "count": 60,
+    "bytes": 968912
+  },
+  {
+    "source": "W003",
+    "top": "power",
+    "count": 87,
+    "bytes": 748875
+  },
+  {
+    "source": "W003",
+    "top": "sdc",
+    "count": 175,
+    "bytes": 1740925
+  },
+  {
+    "source": "W003",
+    "top": "sdf",
+    "count": 51,
+    "bytes": 387026
+  },
+  {
+    "source": "W003",
+    "top": "search",
+    "count": 276,
+    "bytes": 4227231
+  },
+  {
+    "source": "W003",
+    "top": "spice",
+    "count": 34,
+    "bytes": 191666
+  },
+  {
+    "source": "W003",
+    "top": "tcl",
+    "count": 11,
+    "bytes": 201082
+  },
+  {
+    "source": "W003",
+    "top": "test",
+    "count": 286,
+    "bytes": 265523747
+  },
+  {
+    "source": "W003",
+    "top": "util",
+    "count": 55,
+    "bytes": 290470
+  },
+  {
+    "source": "W003",
+    "top": "verilog",
+    "count": 171,
+    "bytes": 1247222
+  },
+  {
+    "source": "W004",
+    "top": ".clang-format",
+    "count": 1,
+    "bytes": 910
+  },
+  {
+    "source": "W004",
+    "top": ".clang-tidy",
+    "count": 1,
+    "bytes": 2994
+  },
+  {
+    "source": "W004",
+    "top": ".cursor",
+    "count": 3,
+    "bytes": 5491
+  },
+  {
+    "source": "W004",
+    "top": ".dockerignore",
+    "count": 1,
+    "bytes": 37
+  },
+  {
+    "source": "W004",
+    "top": ".github",
+    "count": 2,
+    "bytes": 5012
+  },
+  {
+    "source": "W004",
+    "top": ".gitignore",
+    "count": 1,
+    "bytes": 424
+  },
+  {
+    "source": "W004",
+    "top": ".readthedocs.yaml",
+    "count": 1,
+    "bytes": 493
+  },
+  {
+    "source": "W004",
+    "top": "Brewfile",
+    "count": 1,
+    "bytes": 141
+  },
+  {
+    "source": "W004",
+    "top": "CMakeLists.txt",
+    "count": 1,
+    "bytes": 18971
+  },
+  {
+    "source": "W004",
+    "top": "CODEOWNERS",
+    "count": 1,
+    "bytes": 41
+  },
+  {
+    "source": "W004",
+    "top": "Dockerfile.centos7",
+    "count": 1,
+    "bytes": 3189
+  },
+  {
+    "source": "W004",
+    "top": "Dockerfile.ubuntu22.04",
+    "count": 1,
+    "bytes": 938
+  },
+  {
+    "source": "W004",
+    "top": "Dockerfile.ubuntu24.04",
+    "count": 1,
+    "bytes": 938
+  },
+  {
+    "source": "W004",
+    "top": "Jenkinsfile",
+    "count": 1,
+    "bytes": 200
+  },
+  {
+    "source": "W004",
+    "top": "LICENSE",
+    "count": 1,
+    "bytes": 35149
+  },
+  {
+    "source": "W004",
+    "top": "README.md",
+    "count": 1,
+    "bytes": 10441
+  },
+  {
+    "source": "W004",
+    "top": "app",
+    "count": 3,
+    "bytes": 11280
+  },
+  {
+    "source": "W004",
+    "top": "build",
+    "count": 228,
+    "bytes": 255372804
+  },
+  {
+    "source": "W004",
+    "top": "cmake",
+    "count": 4,
+    "bytes": 9552
+  },
+  {
+    "source": "W004",
+    "top": "dcalc",
+    "count": 42,
+    "bytes": 492896
+  },
+  {
+    "source": "W004",
+    "top": "doc",
+    "count": 17,
+    "bytes": 303078
+  },
+  {
+    "source": "W004",
+    "top": "etc",
+    "count": 5,
+    "bytes": 18261
+  },
+  {
+    "source": "W004",
+    "top": "examples",
+    "count": 31,
+    "bytes": 9266253
+  },
+  {
+    "source": "W004",
+    "top": "graph",
+    "count": 4,
+    "bytes": 63934
+  },
+  {
+    "source": "W004",
+    "top": "include",
+    "count": 111,
+    "bytes": 767871
+  },
+  {
+    "source": "W004",
+    "top": "jenkins",
+    "count": 3,
+    "bytes": 274
+  },
+  {
+    "source": "W004",
+    "top": "liberty",
+    "count": 32,
+    "bytes": 526347
+  },
+  {
+    "source": "W004",
+    "top": "mkdocs.yml",
+    "count": 1,
+    "bytes": 1169
+  },
+  {
+    "source": "W004",
+    "top": "network",
+    "count": 14,
+    "bytes": 219476
+  },
+  {
+    "source": "W004",
+    "top": "parasitics",
+    "count": 20,
+    "bytes": 177449
+  },
+  {
+    "source": "W004",
+    "top": "power",
+    "count": 16,
+    "bytes": 149614
+  },
+  {
+    "source": "W004",
+    "top": "sdc",
+    "count": 24,
+    "bytes": 634656
+  },
+  {
+    "source": "W004",
+    "top": "sdf",
+    "count": 12,
+    "bytes": 121124
+  },
+  {
+    "source": "W004",
+    "top": "search",
+    "count": 70,
+    "bytes": 1197583
+  },
+  {
+    "source": "W004",
+    "top": "spice",
+    "count": 18,
+    "bytes": 125731
+  },
+  {
+    "source": "W004",
+    "top": "tcl",
+    "count": 10,
+    "bytes": 182406
+  },
+  {
+    "source": "W004",
+    "top": "test",
+    "count": 383,
+    "bytes": 6317303
+  },
+  {
+    "source": "W004",
+    "top": "util",
+    "count": 24,
+    "bytes": 87014
+  },
+  {
+    "source": "W004",
+    "top": "verilog",
+    "count": 8,
+    "bytes": 115162
+  },
+  {
+    "source": "W005",
+    "top": ".clang-format",
+    "count": 1,
+    "bytes": 910
+  },
+  {
+    "source": "W005",
+    "top": ".clang-tidy",
+    "count": 1,
+    "bytes": 2994
+  },
+  {
+    "source": "W005",
+    "top": ".cursor",
+    "count": 3,
+    "bytes": 5491
+  },
+  {
+    "source": "W005",
+    "top": ".dockerignore",
+    "count": 1,
+    "bytes": 37
+  },
+  {
+    "source": "W005",
+    "top": ".github",
+    "count": 2,
+    "bytes": 5012
+  },
+  {
+    "source": "W005",
+    "top": ".gitignore",
+    "count": 1,
+    "bytes": 424
+  },
+  {
+    "source": "W005",
+    "top": ".readthedocs.yaml",
+    "count": 1,
+    "bytes": 493
+  },
+  {
+    "source": "W005",
+    "top": "Brewfile",
+    "count": 1,
+    "bytes": 141
+  },
+  {
+    "source": "W005",
+    "top": "CMakeLists.txt",
+    "count": 1,
+    "bytes": 18772
+  },
+  {
+    "source": "W005",
+    "top": "CODEOWNERS",
+    "count": 1,
+    "bytes": 41
+  },
+  {
+    "source": "W005",
+    "top": "Dockerfile.centos7",
+    "count": 1,
+    "bytes": 3189
+  },
+  {
+    "source": "W005",
+    "top": "Dockerfile.ubuntu22.04",
+    "count": 1,
+    "bytes": 938
+  },
+  {
+    "source": "W005",
+    "top": "Dockerfile.ubuntu24.04",
+    "count": 1,
+    "bytes": 938
+  },
+  {
+    "source": "W005",
+    "top": "Jenkinsfile",
+    "count": 1,
+    "bytes": 200
+  },
+  {
+    "source": "W005",
+    "top": "LICENSE",
+    "count": 1,
+    "bytes": 35149
+  },
+  {
+    "source": "W005",
+    "top": "README.md",
+    "count": 1,
+    "bytes": 10441
+  },
+  {
+    "source": "W005",
+    "top": "app",
+    "count": 3,
+    "bytes": 11250
+  },
+  {
+    "source": "W005",
+    "top": "build",
+    "count": 222,
+    "bytes": 245020500
+  },
+  {
+    "source": "W005",
+    "top": "cmake",
+    "count": 4,
+    "bytes": 9552
+  },
+  {
+    "source": "W005",
+    "top": "dcalc",
+    "count": 38,
+    "bytes": 391543
+  },
+  {
+    "source": "W005",
+    "top": "doc",
+    "count": 17,
+    "bytes": 293302
+  },
+  {
+    "source": "W005",
+    "top": "etc",
+    "count": 5,
+    "bytes": 17276
+  },
+  {
+    "source": "W005",
+    "top": "examples",
+    "count": 31,
+    "bytes": 9266253
+  },
+  {
+    "source": "W005",
+    "top": "graph",
+    "count": 4,
+    "bytes": 63626
+  },
+  {
+    "source": "W005",
+    "top": "include",
+    "count": 111,
+    "bytes": 764065
+  },
+  {
+    "source": "W005",
+    "top": "jenkins",
+    "count": 3,
+    "bytes": 274
+  },
+  {
+    "source": "W005",
+    "top": "liberty",
+    "count": 32,
+    "bytes": 526143
+  },
+  {
+    "source": "W005",
+    "top": "mkdocs.yml",
+    "count": 1,
+    "bytes": 1169
+  },
+  {
+    "source": "W005",
+    "top": "network",
+    "count": 14,
+    "bytes": 219476
+  },
+  {
+    "source": "W005",
+    "top": "parasitics",
+    "count": 20,
+    "bytes": 177408
+  },
+  {
+    "source": "W005",
+    "top": "power",
+    "count": 16,
+    "bytes": 149614
+  },
+  {
+    "source": "W005",
+    "top": "sdc",
+    "count": 24,
+    "bytes": 634656
+  },
+  {
+    "source": "W005",
+    "top": "sdf",
+    "count": 12,
+    "bytes": 121123
+  },
+  {
+    "source": "W005",
+    "top": "search",
+    "count": 70,
+    "bytes": 1190080
+  },
+  {
+    "source": "W005",
+    "top": "spice",
+    "count": 8,
+    "bytes": 86456
+  },
+  {
+    "source": "W005",
+    "top": "tcl",
+    "count": 10,
+    "bytes": 182231
+  },
+  {
+    "source": "W005",
+    "top": "test",
+    "count": 367,
+    "bytes": 6308830
+  },
+  {
+    "source": "W005",
+    "top": "util",
+    "count": 24,
+    "bytes": 86517
+  },
+  {
+    "source": "W005",
+    "top": "verilog",
+    "count": 8,
+    "bytes": 113485
+  },
+  {
+    "source": "W006",
+    "top": "pull-request-body.md",
+    "count": 1,
+    "bytes": 1061
+  },
+  {
+    "source": "W006",
+    "top": "reproducer.tcl",
+    "count": 1,
+    "bytes": 126
+  },
+  {
+    "source": "W006",
+    "top": "resolution-comment.md",
+    "count": 1,
+    "bytes": 2546
+  },
+  {
+    "source": "W006",
+    "top": "wor_inputs.v",
+    "count": 1,
+    "bytes": 134
+  },
+  {
+    "source": "W007",
+    "top": "pact-public-release-bootstrap.log",
+    "count": 1,
+    "bytes": 526
+  },
+  {
+    "source": "W008",
+    "top": "pact-public-release-install.log",
+    "count": 1,
+    "bytes": 5424
+  }
+]

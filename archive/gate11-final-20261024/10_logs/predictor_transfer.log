@@ -1,0 +1,74 @@
+[
+  {
+    "design": "b14_opt",
+    "configuration": "CS_C1",
+    "search_E_ff_transitions": 71890134.82570177,
+    "search_H8_ff_transitions": 174.74970305103986,
+    "search_E_delta_percent": -1.5495167989175496,
+    "search_H4_delta_percent": -12.648937204235356,
+    "search_H8_delta_percent": -11.465936402383047,
+    "E_delta_percent": -0.3573658160498816,
+    "H8_delta_percent": -5.687626018196434,
+    "total_route_wire_delta_percent": -0.054571086419374915
+  },
+  {
+    "design": "b14_opt",
+    "configuration": "CS_C2",
+    "search_E_ff_transitions": 70431327.28633769,
+    "search_H8_ff_transitions": 178.23639091641436,
+    "search_E_delta_percent": -3.547291702191624,
+    "search_H4_delta_percent": -12.20836462786684,
+    "search_H8_delta_percent": -9.699463327874035,
+    "E_delta_percent": -1.723054104069377,
+    "H8_delta_percent": 4.849002783498779,
+    "total_route_wire_delta_percent": 0.03789658779123073
+  },
+  {
+    "design": "b14_opt",
+    "configuration": "CS_C3",
+    "search_E_ff_transitions": 72011378.14412029,
+    "search_H8_ff_transitions": 174.74970305103986,
+    "search_E_delta_percent": -1.383479229059792,
+    "search_H4_delta_percent": -12.648937204235356,
+    "search_H8_delta_percent": -11.465936402383047,
+    "E_delta_percent": -0.27397804039871465,
+    "H8_delta_percent": -5.732276018654348,
+    "total_route_wire_delta_percent": 0.06366626748928184
+  },
+  {
+    "design": "b15_opt",
+    "configuration": "CS_C1",
+    "search_E_ff_transitions": 395932356.04494524,
+    "search_H8_ff_transitions": 437.5944110000001,
+    "search_E_delta_percent": -1.5436137812340545,
+    "search_H4_delta_percent": -4.210689275903334,
+    "search_H8_delta_percent": -0.10363679220209976,
+    "E_delta_percent": -1.2667422803618655,
+    "H8_delta_percent": -1.682755842169359,
+    "total_route_wire_delta_percent": 0.18647259033963692
+  },
+  {
+    "design": "b15_opt",
+    "configuration": "CS_C2",
+    "search_E_ff_transitions": 395115759.35394377,
+    "search_H8_ff_transitions": 439.5973460000001,
+    "search_E_delta_percent": -1.7466766478240303,
+    "search_H4_delta_percent": -2.4012737302957166,
+    "search_H8_delta_percent": 0.3536037876864073,
+    "E_delta_percent": -1.3659698746247284,
+    "H8_delta_percent": 4.151258147813408,
+    "total_route_wire_delta_percent": 0.11224563690346301
+  },
+  {
+    "design": "b15_opt",
+    "configuration": "CS_C3",
+    "search_E_ff_transitions": 397351831.35713077,
+    "search_H8_ff_transitions": 437.5944110000001,
+    "search_E_delta_percent": -1.1906332596101188,
+    "search_H4_delta_percent": -4.234193474821302,
+    "search_H8_delta_percent": -0.10363679220209976,
+    "E_delta_percent": -1.0114804749568607,
+    "H8_delta_percent": -1.3404551719779279,
+    "total_route_wire_delta_percent": 0.16203200811064633
+  }
+]

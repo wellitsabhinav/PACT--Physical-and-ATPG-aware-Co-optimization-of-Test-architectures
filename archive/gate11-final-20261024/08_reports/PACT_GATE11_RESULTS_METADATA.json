@@ -1,0 +1,18 @@
+{
+  "schema": "PACT_GATE11_RESULTS_v1",
+  "rows": 18,
+  "power_export_rows": 9,
+  "activity": "historical zero-delay settled netlist counts, newly aggregated",
+  "search": "historical depth 3 candidate-capacitance surrogate; separate from implemented E/H8",
+  "power": "historical routed Liberty fixed-duty ESTIMATE; not measured silicon",
+  "empty_numeric_fields": "missing/not applicable, never zero-imputed",
+  "class_activity": "strict source instance/pin and Liberty ff/latch classes; scan scope also contains buffers/ports",
+  "wire_fields": {
+    "routed_scan_path_um": "connected scan path upper bound including functional branches",
+    "total_route_wire_um": "detailed-route total wirelength"
+  },
+  "shift_energy": "analytical P*T, identical duration; not independent measurement",
+  "missing_raw_bindings": "../00_audit/required_binding_recovery.json",
+  "independent_samples": false,
+  "provenance": "comparison/receipt/export paths and SHA256 columns; full member hashes in 00_audit"
+}

@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "F:\Research\PACT\Gate11\09_scripts\validate_package.py", line 28, in <module>
+    report=(R/'08_reports/PACT_GATE11_PHYSICAL_POWER_CAUSALITY.md').read_text()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python\Lib\pathlib.py", line 1028, in read_text
+    return f.read()
+           ^^^^^^^^
+  File "D:\Python\Lib\encodings\cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 12512: character maps to <undefined>
