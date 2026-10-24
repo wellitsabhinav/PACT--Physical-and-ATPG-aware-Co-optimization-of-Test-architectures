@@ -1,0 +1,5 @@
+EXTRACT F:\Research_Archives\PACT\Repository\PRIVATE_S008_repository.tar.zst files 416 bytes 2734834
+{'archive': 'F:\\Research_Archives\\PACT\\Repository\\PRIVATE_S008_repository.tar.zst', 'sha256': 'c9bd24ba6f32690c6c3bb2fc2243e51f263d2bc5b2bbcb71bae5faf92170c4c0', 'archive_hash_verified': True, 'extracted_regular_files': 416, 'elapsed_seconds': 13.87620210647583, 'utc': '2026-10-23T04:15:45.022325+00:00', 'links_created': 0}
+EXTRACT F:\Research_Archives\PACT\Archives\PRIVATE_S008_evidence.tar.zst files 4162 bytes 458551766
+{'archive': 'F:\\Research_Archives\\PACT\\Archives\\PRIVATE_S008_evidence.tar.zst', 'sha256': '4a7853de60583dbfd3fd6f83eb0794c69e26f99247d3c5704e421c300c89a761', 'archive_hash_verified': True, 'extracted_regular_files': 4162, 'elapsed_seconds': 5.79625940322876, 'utc': '2026-10-23T04:15:50.821587+00:00', 'links_created': 0}
+DONE 4578

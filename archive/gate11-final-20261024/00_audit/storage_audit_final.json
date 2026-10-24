@@ -1,0 +1,55 @@
+{
+  "schema": "PACT_GATE11_STORAGE_AUDIT_v1",
+  "status": "PASS_CONTROLLABLE_F_ONLY",
+  "workspace": "F:\\Research\\PACT\\Gate11",
+  "total_workspace_files": 4691,
+  "total_workspace_logical_bytes": 598140235,
+  "allocated_file_bytes": 606789616,
+  "allocation_scope": "FILE_STANDARD_INFO.AllocationSize sum; directory/filesystem metadata excluded",
+  "initial_free_F_bytes": 168161681408,
+  "final_free_F_bytes": 167553597440,
+  "environment": {
+    "TEMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TMPDIR": "F:\\Research\\PACT\\Gate11\\tmp",
+    "PIP_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\pip",
+    "XDG_CACHE_HOME": "F:\\Research\\PACT\\Gate11\\cache\\xdg",
+    "XDG_CONFIG_HOME": "F:\\Research\\PACT\\Gate11\\cache\\config",
+    "PYTHONPYCACHEPREFIX": "F:\\Research\\PACT\\Gate11\\cache\\pycache",
+    "MPLCONFIGDIR": "F:\\Research\\PACT\\Gate11\\cache\\matplotlib",
+    "NUMBA_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\numba",
+    "HOME": "F:\\Research\\PACT\\Gate11\\cache\\home"
+  },
+  "all_controlled_paths_inside_Gate11": true,
+  "no_symlinks_or_junctions_created": true,
+  "historical_archives_post_hashes": [
+    {
+      "path": "F:\\Research_Archives\\PACT\\Repository\\PRIVATE_S008_repository.tar.zst",
+      "sha256": "c9bd24ba6f32690c6c3bb2fc2243e51f263d2bc5b2bbcb71bae5faf92170c4c0",
+      "unchanged": true
+    },
+    {
+      "path": "F:\\Research_Archives\\PACT\\Archives\\PRIVATE_S008_evidence.tar.zst",
+      "sha256": "4a7853de60583dbfd3fd6f83eb0794c69e26f99247d3c5704e421c300c89a761",
+      "unchanged": true
+    }
+  ],
+  "new_simulations": 0,
+  "new_routes": 0,
+  "new_extractions": 0,
+  "new_ATPG": 0,
+  "new_package_installs": 0,
+  "GPU_jobs": 0,
+  "optional_followup_experiments": 1,
+  "original_repository_writes": 0,
+  "scope_limitations": [
+    "Codex transcripts and tool transport may reside on system disks outside experiment control.",
+    "Windows/WSL service logs, antivirus, paging and filesystem bookkeeping cannot be forced system-wide to F:.",
+    "Preflight read-only shells inherited system TEMP; scientific processes used F: redirection.",
+    "WSL failed before Linux start; preconfigured missing F: swap/disk paths outside Gate11 were attempted, with no Linux experimental output."
+  ],
+  "absolute_system_wide_F_only_certified": false,
+  "controllable_experimental_outputs_F_only_confirmed": true,
+  "hash_manifest": "00_audit/PACKAGE_SHA256SUMS.json",
+  "known_evidence_gaps": "00_audit/required_binding_recovery.json"
+}

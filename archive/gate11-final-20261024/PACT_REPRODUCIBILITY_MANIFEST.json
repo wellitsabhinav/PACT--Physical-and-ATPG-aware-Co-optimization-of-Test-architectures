@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "archive_version": "20261023_v001",
+  "decision": "PACT_GATE11_NO_GO",
+  "optimizer_frozen": true,
+  "original_modified": false,
+  "gate12_run": false,
+  "original_repository_path": "C:\\Users\\Abhinav\\OneDrive\\Desktop\\PACT\\PACT",
+  "source_head": "e84f4afbf04a918060b4ad845f5166d8e6c7b92c",
+  "gate09_source": "71b059d9d1a00735d79b6a428693eaba549a5f33",
+  "gate10a_parent": "53ebab37fd76970d7c5e676b0caec13c7c16296e",
+  "gate10a_preregistration": "b9869834a3479a57f256c83fa74a4617faab4af2",
+  "historical_openroad_source": "08f67ee5ecd14db5a42be8c610bbfd1ccf079299",
+  "historical_openroad_binary_sha256": "fcd7dcfc37d329bd43a7ede75805319a2e70e6879da11d42b4fd1c2e50e645c3",
+  "historical_orfs": "5e8b1450d19263f797a27c4f371b9dd19f32a3aa",
+  "declared_historical_embedded_opensta": "76c4d6df3537ccce331b5caa812196c3330ba7c4",
+  "supporting_source_different_from_binary": "dc5eee77c45dba8e5ace2fc89c38c6d9a4ed6e0f",
+  "missing_required_bindings": 80,
+  "physical_reproduction_status": "BLOCKED",
+  "scope": "Recovered-output findings only; no new PACT physical experiment",
+  "integrity_records": [
+    "provenance/COPY_VERIFICATION.json",
+    "provenance/GATE11_PRECOPY_VERIFICATION.json",
+    "provenance/GIT_BRANCH_PRESERVATION.json",
+    "PACT_ARCHIVE_INVENTORY.csv",
+    "PACT_SHA256SUMS.json"
+  ],
+  "git_validation": {
+    "expected_count": 37,
+    "actual_count": 37,
+    "missing_or_different": {},
+    "additional": {},
+    "fsck_returncode": 0
+  },
+  "historical_replay_instructions": "Gate11/08_reports/PACT_GATE11_REPRODUCIBILITY.md",
+  "storage_exceptions": "OS/Codex bookkeeping; Gate0 alternative WSL system writes to existing D VHDX are outside PACT archive"
+}

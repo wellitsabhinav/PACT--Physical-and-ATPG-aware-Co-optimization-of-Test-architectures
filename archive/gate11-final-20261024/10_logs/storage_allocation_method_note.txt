@@ -1,0 +1,1 @@
+Final allocation receipt uses native FILE_STANDARD_INFO.AllocationSize. The first receipt used compressed file size, which equals logical length for ordinary uncompressed files and does not measure cluster allocation. Its source is preserved; all scientific results and input hashes are unchanged.

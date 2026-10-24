@@ -1,0 +1,1 @@
+Initial final-validation attempt passed input hash checks and numeric identities, then stopped on Windows default cp1252 decoding of UTF-8 Markdown. No scientific result changed. The failed validator source/log is preserved; the corrected validator uses explicit UTF-8.

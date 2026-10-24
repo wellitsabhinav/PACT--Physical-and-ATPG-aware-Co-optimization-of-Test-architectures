@@ -1,0 +1,125 @@
+{
+  "descriptive_correlations": [
+    {
+      "predictor": "E_delta_percent",
+      "response": "scan_FF_Q_transitions_delta_percent",
+      "pearson_r": 0.9966622929612036,
+      "n_rows": 5,
+      "independent_families": 2,
+      "status": "DESCRIPTIVE_DEPENDENT_DELTAS_NO_INFERENCE"
+    },
+    {
+      "predictor": "E_delta_percent",
+      "response": "combinational_transitions_delta_percent",
+      "pearson_r": 0.9897973250182409,
+      "n_rows": 5,
+      "independent_families": 2,
+      "status": "DESCRIPTIVE_DEPENDENT_DELTAS_NO_INFERENCE"
+    },
+    {
+      "predictor": "E_delta_percent",
+      "response": "total_data_transitions_delta_percent",
+      "pearson_r": 0.993135869305326,
+      "n_rows": 5,
+      "independent_families": 2,
+      "status": "DESCRIPTIVE_DEPENDENT_DELTAS_NO_INFERENCE"
+    },
+    {
+      "predictor": "E_delta_percent",
+      "response": "dynamic_w_delta_percent",
+      "pearson_r": 0.9844424768531718,
+      "n_rows": 5,
+      "independent_families": 2,
+      "status": "DESCRIPTIVE_DEPENDENT_DELTAS_NO_INFERENCE"
+    },
+    {
+      "predictor": "H8_delta_percent",
+      "response": "scan_FF_Q_transitions_delta_percent",
+      "pearson_r": -0.8863255321151137,
+      "n_rows": 5,
+      "independent_families": 2,
+      "status": "DESCRIPTIVE_DEPENDENT_DELTAS_NO_INFERENCE"
+    },
+    {
+      "predictor": "H8_delta_percent",
+      "response": "combinational_transitions_delta_percent",
+      "pearson_r": -0.8244231297434279,
+      "n_rows": 5,
+      "independent_families": 2,
+      "status": "DESCRIPTIVE_DEPENDENT_DELTAS_NO_INFERENCE"
+    },
+    {
+      "predictor": "H8_delta_percent",
+      "response": "total_data_transitions_delta_percent",
+      "pearson_r": -0.8372174820177963,
+      "n_rows": 5,
+      "independent_families": 2,
+      "status": "DESCRIPTIVE_DEPENDENT_DELTAS_NO_INFERENCE"
+    },
+    {
+      "predictor": "H8_delta_percent",
+      "response": "dynamic_w_delta_percent",
+      "pearson_r": -0.7984920430043111,
+      "n_rows": 5,
+      "independent_families": 2,
+      "status": "DESCRIPTIVE_DEPENDENT_DELTAS_NO_INFERENCE"
+    }
+  ],
+  "historical_controls": [
+    {
+      "attempt": "smoke_density0",
+      "dynamic_w": 0.0002084035077132,
+      "receipt_sha256": "edba936250c8afa75672e447ac173b70452087a836828830053635dcc29f6861",
+      "historical_control_only": true
+    },
+    {
+      "attempt": "smoke_nominal_attempt6",
+      "dynamic_w": 0.0006644056993537,
+      "receipt_sha256": "3ab4015bef8bd20a3e87227077d01aa84249233991e09de9cf83aec062fdefbf",
+      "historical_control_only": true
+    },
+    {
+      "attempt": "smoke_nominal_repeat1",
+      "dynamic_w": 0.0006644056993537,
+      "receipt_sha256": "fa7fcb67c581c29efdc0b72ef0d0beb84a8c5e6a0ddb055c4280ee8d02dbdd22",
+      "historical_control_only": true
+    },
+    {
+      "attempt": "smoke_density2",
+      "dynamic_w": 0.0011204081820324,
+      "receipt_sha256": "88d2da0886adb2bda0f664a8594d6361fef5553843329a1e2cd95d84a508ac7f",
+      "historical_control_only": true
+    }
+  ],
+  "density0_fixed_dynamic_fraction": 0.31366905478975315,
+  "density_control_linear_residual_w": 2.910382000502476e-10,
+  "peak_bin_budgets": [
+    {
+      "design": "b14_opt",
+      "reference_H8_bin": 34,
+      "reference_bin_average_dynamic_fraction": 0.035882945416048286,
+      "reference_bin_average_E_fraction": 0.05780798391587802,
+      "same_bin_average_dynamic_delta_percent": 1.0452561041654596,
+      "same_bin_average_E_delta_percent": 0.9499965069895477,
+      "H8_peak_delta_percent": -5.687626018196434,
+      "same_peak_bin": true
+    },
+    {
+      "design": "b15_opt",
+      "reference_H8_bin": 35,
+      "reference_bin_average_dynamic_fraction": 0.028498841165090286,
+      "reference_bin_average_E_fraction": 0.0418679381672335,
+      "same_bin_average_dynamic_delta_percent": -0.9323781814499332,
+      "same_bin_average_E_delta_percent": -0.8617190647976058,
+      "H8_peak_delta_percent": -1.682755842169359,
+      "same_peak_bin": true
+    }
+  ],
+  "historical_power_attempts_status_counts": {
+    "QUALIFIED": 14,
+    "IMPLEMENTATION_OR_QUALIFICATION_FAILURE": 3
+  },
+  "historical_power_attempts_total": 17,
+  "historical_selected_power_runs": 9,
+  "extra_optional_experiments": 0
+}

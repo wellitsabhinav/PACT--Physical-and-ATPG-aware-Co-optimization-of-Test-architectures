@@ -1,0 +1,1 @@
+Report-generation launch hit Windows command-line length limit (OS error 206); no process or scientific stage started. Source was split into bounded file-writing commands.

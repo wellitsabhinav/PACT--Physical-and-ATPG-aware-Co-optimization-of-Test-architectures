@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "validated_utc": "2026-10-23T04:49:52.601834+00:00",
+  "staged_member_hashes": 4585,
+  "original_container_post_hashes": [
+    {
+      "path": "F:\\Research_Archives\\PACT\\Repository\\PRIVATE_S008_repository.tar.zst",
+      "sha256": "c9bd24ba6f32690c6c3bb2fc2243e51f263d2bc5b2bbcb71bae5faf92170c4c0",
+      "unchanged": true
+    },
+    {
+      "path": "F:\\Research_Archives\\PACT\\Archives\\PRIVATE_S008_evidence.tar.zst",
+      "sha256": "4a7853de60583dbfd3fd6f83eb0794c69e26f99247d3c5704e421c300c89a761",
+      "unchanged": true
+    }
+  ],
+  "all18_rows_retained": true,
+  "nine_power_exports": true,
+  "seven_factor_comparisons": true,
+  "source_class_and_energy_identities": true,
+  "report_sections": 14,
+  "reproducer_syntax_and_path_transformations": "PASS_STATIC_ONLY_NOT_EXECUTED",
+  "historical_end_to_end": "PASS_12_RECORDS",
+  "historical_optimizer_numerical_replay": "BLOCKED_NUMBA",
+  "fresh_physical_replay": "BLOCKED_RAW_INPUTS_AND_WSL_DISK",
+  "optional_experiments": 1,
+  "known_new_failures": [
+    "WSL failed before Linux start",
+    "retained verifier missing Numba",
+    "first accounting PORT source parser assertion",
+    "second accounting method/role parser assertion",
+    "report command line OS206 before process creation",
+    "initial package validation Windows cp1252 decode failure; corrected explicit UTF8"
+  ]
+}

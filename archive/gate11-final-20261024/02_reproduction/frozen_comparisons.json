@@ -1,0 +1,45 @@
+{
+  "question": "Why do E/H8 gains weakly transfer to physical shift power, and is a distinct DAC mechanism demonstrated?",
+  "designs": [
+    "b14_opt",
+    "b15_opt"
+  ],
+  "seed": 11,
+  "K": 2,
+  "reference": {
+    "b14_opt": "B3T",
+    "b15_opt": "B2"
+  },
+  "selected_architectures": {
+    "b14_opt": [
+      "B3T",
+      "CS_C1",
+      "CS_C3",
+      "B5"
+    ],
+    "b15_opt": [
+      "B2",
+      "CS_C1",
+      "CS_C2",
+      "CS_C3",
+      "B5"
+    ]
+  },
+  "include_all_Gate09_methods_in_historical_table": true,
+  "primary": "CS_C1",
+  "power_selection": "unchanged Gate10A selected earliest admissible nominal run",
+  "clock_period_ns": 10,
+  "VDD_V": 1.1,
+  "nonclock_duty": 0.5,
+  "analysis": [
+    "recalculate frozen per-net totals",
+    "classify transitions by source Liberty master",
+    "recalculate saved per-instance power by cell class",
+    "analyze spatial and saved temporal summaries"
+  ],
+  "new_simulation": "blocked pending exact qualified workload/netlist recovery",
+  "no_optimizer_changes": true,
+  "post_outcome_thresholds": false,
+  "optional_followup": "not yet admitted",
+  "limits": "one serial process; no install/build/download; no reroute; no GPU"
+}

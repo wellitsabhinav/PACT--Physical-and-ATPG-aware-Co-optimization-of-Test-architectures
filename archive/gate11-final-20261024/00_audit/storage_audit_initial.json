@@ -1,0 +1,39 @@
+{
+  "created_utc": "2026-10-23T04:13:14.9057646Z",
+  "workspace": "F:\\Research\\PACT\\Gate11",
+  "preexisting_workspace": false,
+  "write_test": "PASS_directory_creation",
+  "free_bytes": 168161681408,
+  "required_dirs": [
+    "00_audit",
+    "01_inputs",
+    "02_reproduction",
+    "03_activity",
+    "04_power",
+    "05_parasitics",
+    "06_causality",
+    "07_hypothesis",
+    "08_reports",
+    "09_scripts",
+    "10_logs",
+    "scratch",
+    "cache",
+    "tmp"
+  ],
+  "environment": {
+    "PYTHONPYCACHEPREFIX": "F:\\Research\\PACT\\Gate11\\cache\\pycache",
+    "TMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "TEMP": "F:\\Research\\PACT\\Gate11\\tmp",
+    "XDG_CONFIG_HOME": "F:\\Research\\PACT\\Gate11\\cache\\config",
+    "XDG_CACHE_HOME": "F:\\Research\\PACT\\Gate11\\cache\\xdg",
+    "TMPDIR": "F:\\Research\\PACT\\Gate11\\tmp",
+    "PIP_CACHE_DIR": "F:\\Research\\PACT\\Gate11\\cache\\pip"
+  },
+  "original_read_only": "C:\\Users\\Abhinav\\OneDrive\\Desktop\\PACT",
+  "historical_write_operations": [],
+  "limitations": [
+    "Codex application transcripts and host OS bookkeeping may occur on system disks outside experiment control.",
+    "Preflight read-only shell commands inherited system TEMP; no experimental tools were launched."
+  ],
+  "status": "F_ONLY_CONTROLLABLE_OUTPUTS_CONFIGURED"
+}

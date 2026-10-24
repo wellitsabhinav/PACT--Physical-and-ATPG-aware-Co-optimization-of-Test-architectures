@@ -1,0 +1,66 @@
+{
+  "id": "G005",
+  "path": "C:\\Users\\Abhinav\\OneDrive\\Desktop\\PACT\\PACT",
+  "project": "PACT",
+  "results": {
+    "status": {
+      "code": 0,
+      "stdout": "!! .optimizer-cache/\n!! .optimizer-deps/\n!! .pytest_cache/\n!! .venv/\n!! artifacts/raw/phase0b/dft_annotated/\n!! artifacts/raw/phase0b/dft_annotation/\n!! artifacts/raw/phase0b/dft_prescan/\n!! artifacts/raw/phase0b/dft_probe/\n!! artifacts/raw/phase0b/physical/\n!! artifacts/raw/phase0b/runs/\n!! artifacts/raw/phase0b/source_place/\n!! artifacts/raw/phase0b/tests/\n!! build/\n!! cleanup/local/\n!! external/OpenROAD-flow-scripts/\n!! external/OpenROAD/\n!! external/openroad_prebuilt/\n!! reports/gate10a/control/pg_audit/b14_opt/B3T/after.def\n!! reports/gate10a/control/pg_audit/b14_opt/B3T/before.def\n!! reports/gate10a/control/pg_audit/b14_opt/B5/after.def\n!! reports/gate10a/control/pg_audit/b14_opt/B5/before.def\n!! reports/gate10a/control/pg_audit/b14_opt/CS_C1/after.def\n!! reports/gate10a/control/pg_audit/b14_opt/CS_C1/before.def\n!! reports/gate10a/control/pg_audit/b14_opt/CS_C3/after.def\n!! reports/gate10a/control/pg_audit/b14_opt/CS_C3/before.def\n!! reports/gate10a/control/pg_audit/b15_opt/B2/after.def\n!! reports/gate10a/control/pg_audit/b15_opt/B2/before.def\n!! reports/gate10a/control/pg_audit/b15_opt/B5/after.def\n!! reports/gate10a/control/pg_audit/b15_opt/B5/before.def\n!! reports/gate10a/control/pg_audit/b15_opt/CS_C1/after.def\n!! reports/gate10a/control/pg_audit/b15_opt/CS_C1/before.def\n!! reports/gate10a/control/pg_audit/b15_opt/CS_C2/after.def\n!! reports/gate10a/control/pg_audit/b15_opt/CS_C2/before.def\n!! reports/gate10a/control/pg_audit/b15_opt/CS_C3/after.def\n!! reports/gate10a/control/pg_audit/b15_opt/CS_C3/before.def\n!! results/pact_candidate_sensitive/measurement/\n!! results/pact_candidate_sensitive/routes/\n!! results/pact_candidate_stateful/measurement/\n!! results/pact_candidate_stateful/routes/\n!! results/pact_fault_identity/\n!! results/pact_h8_rootcause/analyze_s15850.log\n!! results/pact_h8_rootcause/analyze_s5378.log\n!! results/pact_h8_rootcause/analyze_s9234.log\n!! results/pact_h8_rootcause/geometry_audit.csv\n!! results/pact_h8_rootcause/pairs/\n!! results/pact_h8_rootcause/performance_notes.md\n!! results/pact_h8_rootcause/report.log\n!! results/pact_h8_rootcause/s15850/\n!! results/pact_h8_rootcause/s5378/\n!! results/pact_h8_rootcause/s9234/\n!! results/pact_h8_rootcause/topology_changes.csv\n!! results/pact_h8_rootcause/topology_export.log\n!! results/pact_h8_rootcause/unit_tests.log\n!! results/pact_large_unseen_gate9_20261005/host_logs/s38417_activity.log\n!! results/pact_large_unseen_gate9_20261005/host_logs/s38417_aggregate.log\n!! results/pact_large_unseen_gate9_20261005/host_logs/s38417_physical.log\n!! results/pact_large_unseen_gate9_20261005/host_logs/s38417_search.log\n!! results/pact_large_unseen_gate9_20261005/host_logs/s38584_activity.log\n!! results/pact_large_unseen_gate9_20261005/host_logs/s38584_aggregate.log\n!! results/pact_large_unseen_gate9_20261005/host_logs/s38584_physical.log\n!! results/pact_large_unseen_gate9_20261005/host_logs/s38584_search.log\n!! results/pact_oss_benchmark/topology_recovery_20261004/verilog_input_alias/opensta420_round3_20261004/\n!! results/pact_oss_benchmark/topology_recovery_20261004/verilog_input_alias/upstream_ci_20261004/\n!! results/pact_oss_benchmark/topology_recovery_20261004/verilog_input_alias/upstream_ci_round2_20261004/\n!! results/pact_oss_benchmark/topology_recovery_20261004/verilog_input_alias/upstream_review_20261004/\n!! results/pact_v2/measurement/\n!! results/pact_v2/routes/\n!! results/phase2c_repair_multiseed/raw/\n!! results/phase2d_independent_gp/orfs/\n!! results/phase2d_independent_gp/raw/\n!! scratch/\n!! scripts/__pycache__/\n!! src/pact.egg-info/\n!! src/pact/__pycache__/\n!! src/pact/activity/__pycache__/\n!! src/pact/analysis/__pycache__/\n!! src/pact/integration/__pycache__/\n!! src/pact/optimizer/__pycache__/\n!! src/pact/phase0d/__pycache__/\n!! src/pact/physical/__pycache__/\n!! src/pact/scan/__pycache__/\n!! src/pact/test/__pycache__/\n!! src/pact_phase0.egg-info/\n!! tests/__pycache__/\n!! tests/unit/__pycache__/\n",
+      "stderr": ""
+    },
+    "refs": {
+      "code": 0,
+      "stdout": "refs/heads/benchmark/topology-recovery-20261004 8be9af69cacb463ac50ac132b1bf6948de42171c \nrefs/heads/cleanup/public-research-release de768e67cfb794d9c4779d57ac1448ea5ef119ae origin/cleanup/public-research-release\nrefs/heads/development/cpu-scalability-20261005 99c494103f4b50abec2ab25189cff59ddce734d8 origin/development/cpu-scalability-20261005\nrefs/heads/development/gate09-open-source-benchmarking e5dbf26721f3e0e17aac9d3569691b322969b4c0 origin/development/gate09-open-source-benchmarking\nrefs/heads/development/gate10a-practical-impact-validation c59624176238a2c898b7239988ffa4f81a424936 \nrefs/heads/development/large-unseen-gate9-20261005 fbe86c7f35989aa6b91f0ff0c522ceb9343c6c65 \nrefs/heads/experiment/cold-start-unseen-pact-20261004 9a8a63cb003e9eea966e47769073a65a758029db \nrefs/heads/experiment/generalization-scalability-20261004 d4f255caddf5658b12f0450bb94bed9af0e682d6 \nrefs/heads/frozen-stage-a 8be9af69cacb463ac50ac132b1bf6948de42171c \nrefs/heads/main e84f4afbf04a918060b4ad845f5166d8e6c7b92c origin/main\nrefs/heads/maintenance/repository-cleanup 87a1767aee729b4647103748c97319a6409d931e \nrefs/heads/maintenance/repository-storage-documentation-overhaul a8bf2600ddcfe9818ccffd66a76f9dc0b1f4545d origin/maintenance/repository-storage-documentation-overhaul\nrefs/heads/publication/large-unseen-results aaae33f2b82eeb053c624b8101f0b2b356eefaa8 origin/publication/large-unseen-results\nrefs/heads/qualify/end-to-end-20261004 d2e4a137e6541e23f8bcb2304578d68ab7c3ca6b origin/qualify/end-to-end-20261004\nrefs/heads/repair/cold-start-discovery-observer-20261004 d203378f32d08471b8a575f4354aedaef6fa0952 \nrefs/heads/repair/generalization-buffer-traversal-20261004 4e3e015f9c00092cb8b1e125173fda462fa41a04 \nrefs/heads/repair/generalization-functional-identities-20261004 9da8f82cde2d70a8b838c63e5f30f47859a7a5b9 \nrefs/heads/repair/generalization-measurement-receipt-20261004 10199d640e315ab7bfda868deb59b69a44e82ee4 \nrefs/heads/repair/generalization-runtime-paths-20261004 32c3e29e5c0c1d113f7240c76187e5578673d269 \nrefs/heads/repair/generalization-sized-scan-cells-20261004 76b6e2e0264581418981987d1240ca2e218ab949 \nrefs/heads/repair/generalization-source-endpoint-20261004 659e0bcc446d29983f2597b3e7002a32a505ebc8 \nrefs/heads/repair/generalization-table-schema-20261004 f26791908fcfba26b1cbf2dbd22e6b5a98954c19 \nrefs/heads/stage-b-complete-export-local 924c44021162cdb015dc4dbbcfd6c8dda4143d53 \nrefs/heads/stage-b-method f2569d498cd5f26a88c4954ec163498eb3cf7d91 \nrefs/heads/stage-b-method-public 68413c4c439abf4ddb1c83d3c5c9387eb69712c2 origin/stage-b-method-public\nrefs/remotes/origin/HEAD e84f4afbf04a918060b4ad845f5166d8e6c7b92c \nrefs/remotes/origin/cleanup/public-research-release de768e67cfb794d9c4779d57ac1448ea5ef119ae \nrefs/remotes/origin/development/cpu-scalability-20261005 99c494103f4b50abec2ab25189cff59ddce734d8 \nrefs/remotes/origin/development/gate09-open-source-benchmarking e5dbf26721f3e0e17aac9d3569691b322969b4c0 \nrefs/remotes/origin/main e84f4afbf04a918060b4ad845f5166d8e6c7b92c \nrefs/remotes/origin/maintenance/repository-storage-documentation-overhaul a8bf2600ddcfe9818ccffd66a76f9dc0b1f4545d \nrefs/remotes/origin/publication/large-unseen-results aaae33f2b82eeb053c624b8101f0b2b356eefaa8 \nrefs/remotes/origin/qualify/end-to-end-20261004 d2e4a137e6541e23f8bcb2304578d68ab7c3ca6b \nrefs/remotes/origin/stage-b-method-public 68413c4c439abf4ddb1c83d3c5c9387eb69712c2 \nrefs/tags/pact-cold-start-unseen-campaign-20261004 e9aeb9b1dbb66802f437ee4fadda68ff0f4374df \nrefs/tags/pact-v1-core-frozen-20261004 9cc69bc077171c34d7aa1e45711489ff4bfed969 \nrefs/tags/pact-v1-generalization-blocked-20261004 d4f255caddf5658b12f0450bb94bed9af0e682d6 \n",
+      "stderr": ""
+    },
+    "stashes": {
+      "code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    "worktrees": {
+      "code": 0,
+      "stdout": "worktree C:/Users/Abhinav/OneDrive/Desktop/PACT/PACT\nHEAD e84f4afbf04a918060b4ad845f5166d8e6c7b92c\nbranch refs/heads/main\n\nworktree C:/Users/Abhinav/OneDrive/Desktop/PACT/forensic-quarantine/20261008/legacy/publication-worktree\nHEAD aaae33f2b82eeb053c624b8101f0b2b356eefaa8\nbranch refs/heads/publication/large-unseen-results\n\n",
+      "stderr": ""
+    },
+    "submodules": {
+      "code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    "local_only": {
+      "code": 0,
+      "stdout": "924c44021162cdb015dc4dbbcfd6c8dda4143d53\n",
+      "stderr": ""
+    },
+    "missing_objects": {
+      "code": 0,
+      "stdout": "",
+      "stderr": "",
+      "object_lines": 21075
+    },
+    "remotes": {
+      "code": 0,
+      "stdout": "origin\tgit@github.com:wellitsabhinav/PACT--Physical-and-ATPG-aware-Co-optimization-of-Test-architectures.git (fetch)\norigin\tgit@github.com:wellitsabhinav/PACT--Physical-and-ATPG-aware-Co-optimization-of-Test-architectures.git (push)\n",
+      "stderr": ""
+    },
+    "lfs": {
+      "code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    "gitdir": {
+      "code": 0,
+      "stdout": "C:/Users/Abhinav/OneDrive/Desktop/PACT/PACT/.git\nC:/Users/Abhinav/OneDrive/Desktop/PACT/PACT/.git\n",
+      "stderr": ""
+    },
+    "object_format": {
+      "code": 0,
+      "stdout": "sha1\n",
+      "stderr": ""
+    }
+  },
+  "external_metadata": [],
+  "alternates": [],
+  "lfs_objects": []
+}
